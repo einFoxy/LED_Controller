@@ -1,0 +1,4 @@
+Added Component: Designator=T11(Toggel Switch)
+Added Pin To Net: NetName=VCC Pin=T11-1
+Added Pin To Net: NetName=VBUS Pin=T11-2
+Added Member To Class: ClassName=LED_Controller Member=Component T11 Toggel Switch

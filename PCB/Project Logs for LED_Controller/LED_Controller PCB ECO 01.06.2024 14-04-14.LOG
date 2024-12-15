@@ -1,0 +1,141 @@
+Add Component: Footprint Not Found CAPC3216X170N
+Add Component: Footprint Not Found CAPC3216X170N
+Add Component: Footprint Not Found CAPC3216X170N
+Add Component: Footprint Not Found CAPC3216X170N
+Add Component: Footprint Not Found CAPC3216X170N
+Added Component: Designator=D41(Arduino LCD Display A000096)
+Added Component: Designator=J11(MOLEX_2171750001)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2171750001/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2171750001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2171750001/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RES_ERJU08J154V
+Add Component: Footprint Not Found RES_ERJU08J154V
+Add Component: Footprint Not Found Switch
+Added Component: Designator=T21(SMD Swtich)
+Added Component: Designator=T31(SMD Swtich)
+Added Component: Designator=T32(SMD Swtich)
+Added Component: Designator=T33(SMD Swtich)
+Added Component: Designator=T34(SMD Swtich)
+Added Component: Designator=U21(QFP80P900X900X120-32N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA328P-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-32 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X11(CON5)
+Add component (AddParameter): Name = "VALUE"; Value = "PinHedader"; VariantName = "[No Variations]"
+Added Component: Designator=X51(CON4_200mil)
+Add component (AddParameter): Name = "VALUE"; Value = "PinHedader"; VariantName = "[No Variations]"
+Added Component: Designator=Y21(OSC_CSTCE16M0V53-R0)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CSTCE16M0V53-R0/Murata+Electronics+North+America/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CSTCE16M0V53-R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-3 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CSTCE16M0V53-R0/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CSTCE16M0V53-R0/Murata+Electronics+North+America/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=button_down Pin=T34-2
+Added Pin To Net: NetName=button_down Pin=T34-2
+Added Pin To Net: NetName=button_down Pin=U21-24
+Added Net: Name=button_down
+Added Pin To Net: NetName=button_left Pin=T32-2
+Added Pin To Net: NetName=button_left Pin=T32-2
+Added Pin To Net: NetName=button_left Pin=U21-25
+Added Net: Name=button_left
+Added Pin To Net: NetName=button_right Pin=T33-2
+Added Pin To Net: NetName=button_right Pin=T33-2
+Added Pin To Net: NetName=button_right Pin=U21-23
+Added Net: Name=button_right
+Added Pin To Net: NetName=button_up Pin=T31-2
+Added Pin To Net: NetName=button_up Pin=T31-2
+Added Pin To Net: NetName=button_up Pin=U21-26
+Added Net: Name=button_up
+Added Pin To Net: NetName=D/C Pin=D41-D/C
+Added Pin To Net: NetName=D/C Pin=U21-13
+Added Net: Name=D/C
+Added Pin To Net: NetName=GND Pin=D41-GND
+Added Pin To Net: NetName=GND Pin=J11-A12
+Added Pin To Net: NetName=GND Pin=J11-B12
+Added Pin To Net: NetName=GND Pin=J11-SH1
+Added Pin To Net: NetName=GND Pin=J11-SH2
+Added Pin To Net: NetName=GND Pin=J11-SH3
+Added Pin To Net: NetName=GND Pin=J11-SH4
+Added Pin To Net: NetName=GND Pin=T21-1
+Added Pin To Net: NetName=GND Pin=T21-1
+Added Pin To Net: NetName=GND Pin=T31-1
+Added Pin To Net: NetName=GND Pin=T31-1
+Added Pin To Net: NetName=GND Pin=T32-1
+Added Pin To Net: NetName=GND Pin=T32-1
+Added Pin To Net: NetName=GND Pin=T33-1
+Added Pin To Net: NetName=GND Pin=T33-1
+Added Pin To Net: NetName=GND Pin=T34-1
+Added Pin To Net: NetName=GND Pin=T34-1
+Added Pin To Net: NetName=GND Pin=U21-3
+Added Pin To Net: NetName=GND Pin=U21-5
+Added Pin To Net: NetName=GND Pin=U21-21
+Added Pin To Net: NetName=GND Pin=X11-1
+Added Pin To Net: NetName=GND Pin=X51-4
+Added Pin To Net: NetName=GND Pin=Y21-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LCD CS Pin=D41-LCD CS
+Added Pin To Net: NetName=LCD CS Pin=U21-14
+Added Net: Name=LCD CS
+Added Pin To Net: NetName=MISO Pin=D41-MISO
+Added Pin To Net: NetName=MISO Pin=U21-16
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=D41-MOSI
+Added Pin To Net: NetName=MOSI Pin=U21-15
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetD41_BL Pin=D41-BL
+Added Net: Name=NetD41_BL
+Added Pin To Net: NetName=OUTPUT_BLUE Pin=U21-1
+Added Pin To Net: NetName=OUTPUT_BLUE Pin=X51-3
+Added Net: Name=OUTPUT_BLUE
+Added Pin To Net: NetName=OUTPUT_GREEN Pin=U21-9
+Added Pin To Net: NetName=OUTPUT_GREEN Pin=X51-2
+Added Net: Name=OUTPUT_GREEN
+Added Pin To Net: NetName=OUTPUT_RED Pin=U21-10
+Added Pin To Net: NetName=OUTPUT_RED Pin=X51-1
+Added Net: Name=OUTPUT_RED
+Added Pin To Net: NetName=RST_LCD Pin=D41-Reset
+Added Pin To Net: NetName=RST_LCD Pin=U21-12
+Added Net: Name=RST_LCD
+Added Pin To Net: NetName=RST Pin=T21-2
+Added Pin To Net: NetName=RST Pin=T21-2
+Added Pin To Net: NetName=RST Pin=U21-29
+Added Pin To Net: NetName=RST Pin=X11-2
+Added Net: Name=RST
+Added Pin To Net: NetName=RX Pin=U21-30
+Added Pin To Net: NetName=RX Pin=X11-3
+Added Net: Name=RX
+Added Pin To Net: NetName=SCK Pin=D41-SCK
+Added Pin To Net: NetName=SCK Pin=U21-17
+Added Net: Name=SCK
+Added Pin To Net: NetName=SD CS Pin=D41-SD CS
+Added Pin To Net: NetName=SD CS Pin=U21-2
+Added Net: Name=SD CS
+Added Pin To Net: NetName=TX Pin=U21-31
+Added Pin To Net: NetName=TX Pin=X11-4
+Added Net: Name=TX
+Added Pin To Net: NetName=VBUS Pin=J11-A9
+Added Net: Name=VBUS
+Added Pin To Net: NetName=VCC Pin=D41-+5V
+Added Pin To Net: NetName=VCC Pin=U21-4
+Added Pin To Net: NetName=VCC Pin=U21-6
+Added Pin To Net: NetName=VCC Pin=U21-18
+Added Pin To Net: NetName=VCC Pin=U21-20
+Added Pin To Net: NetName=VCC Pin=X11-5
+Added Net: Name=VCC
+Added Pin To Net: NetName=XTAL1 Pin=U21-7
+Added Pin To Net: NetName=XTAL1 Pin=Y21-1
+Added Net: Name=XTAL1
+Added Pin To Net: NetName=XTAL2 Pin=U21-8
+Added Pin To Net: NetName=XTAL2 Pin=Y21-3
+Added Net: Name=XTAL2
+Added Class: Name=LED_Controller

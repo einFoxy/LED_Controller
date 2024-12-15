@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=VBUS Pin=J11-A9
+Removed Pin From Net: NetName=GND Pin=J11-A12
+Removed Pin From Net: NetName=GND Pin=J11-B12
+Removed Pin From Net: NetName=GND Pin=J11-SH1
+Removed Pin From Net: NetName=GND Pin=J11-SH2
+Removed Pin From Net: NetName=GND Pin=J11-SH3
+Removed Pin From Net: NetName=GND Pin=J11-SH4
+Removed Member From Class: ClassName=LED_Controller Member=J11
+Added Component: Designator=J?(MOLEX_2171750001)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2171750001/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2171750001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2171750001/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=J?-A9
+Added Pin To Net: NetName=GND Pin=J?-A12
+Added Pin To Net: NetName=VBUS Pin=J?-B9
+Added Pin To Net: NetName=GND Pin=J?-B12
+Added Pin To Net: NetName=GND Pin=J?-SH1
+Added Pin To Net: NetName=GND Pin=J?-SH2
+Added Pin To Net: NetName=GND Pin=J?-SH3
+Added Pin To Net: NetName=GND Pin=J?-SH4
+Added Member To Class: ClassName=LED_Controller Member=Component J? USB Type C Conector

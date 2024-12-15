@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [LED_Controller.PrjPcb]
+   Generated File[Pick Place for LED_Controller.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:44:09 On 27.11.2024

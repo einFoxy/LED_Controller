@@ -1,0 +1,12 @@
+Added Component: Designator=D41(Arduino LCD Display A000096)
+Added Pin To Net: NetName=VCC Pin=D41-+5V
+Added Pin To Net: NetName=NetD41_BL Pin=D41-BL
+Added Pin To Net: NetName=D/C Pin=D41-D/C
+Added Pin To Net: NetName=GND Pin=D41-GND
+Added Pin To Net: NetName=LCD CS Pin=D41-LCD CS
+Added Pin To Net: NetName=MISO Pin=D41-MISO
+Added Pin To Net: NetName=MOSI Pin=D41-MOSI
+Added Pin To Net: NetName=RST_LCD Pin=D41-Reset
+Added Pin To Net: NetName=SCK Pin=D41-SCK
+Added Pin To Net: NetName=SD CS Pin=D41-SD CS
+Added Member To Class: ClassName=LED_Controller Member=Component D41 Arduino LCD Display A000096

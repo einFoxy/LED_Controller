@@ -1,0 +1,10 @@
+Added Component: Designator=J12(2x3 Pin Header)
+Add Pin To Net: Unknown Pin: Pin B21-9
+Add Pin To Net: Unknown Pin: Pin B22-9
+Added Pin To Net: NetName=MISO Pin=J12-1
+Added Pin To Net: NetName=VCC Pin=J12-2
+Added Pin To Net: NetName=SCK Pin=J12-3
+Added Pin To Net: NetName=MOSI Pin=J12-4
+Added Pin To Net: NetName=RST Pin=J12-5
+Added Pin To Net: NetName=GND Pin=J12-6
+Added Member To Class: ClassName=LED_Controller Member=Component J12 2x3 Pin Header

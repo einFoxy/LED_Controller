@@ -1,0 +1,34 @@
+Added Component: Designator=T21(Taster)
+Add component (AddParameter): Name = "Value"; Value = "Taster"; VariantName = "[No Variations]"
+Added Component: Designator=T31(Taster)
+Add component (AddParameter): Name = "Value"; Value = "Taster"; VariantName = "[No Variations]"
+Added Component: Designator=T32(Taster)
+Add component (AddParameter): Name = "Value"; Value = "Taster"; VariantName = "[No Variations]"
+Added Component: Designator=T33(Taster)
+Add component (AddParameter): Name = "Value"; Value = "Taster"; VariantName = "[No Variations]"
+Added Component: Designator=T34(Taster)
+Add component (AddParameter): Name = "Value"; Value = "Taster"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin B21-9
+Add Pin To Net: Unknown Pin: Pin B22-9
+Add Pin To Net: Unknown Pin: Pin J12-1
+Add Pin To Net: Unknown Pin: Pin J12-2
+Add Pin To Net: Unknown Pin: Pin J12-3
+Add Pin To Net: Unknown Pin: Pin J12-4
+Add Pin To Net: Unknown Pin: Pin J12-5
+Add Pin To Net: Unknown Pin: Pin J12-6
+Added Pin To Net: NetName=GND Pin=T21-1
+Added Pin To Net: NetName=RST Pin=T21-2
+Added Pin To Net: NetName=GND Pin=T31-1
+Added Pin To Net: NetName=button_up Pin=T31-2
+Added Pin To Net: NetName=GND Pin=T32-1
+Added Pin To Net: NetName=button_right Pin=T32-2
+Added Pin To Net: NetName=GND Pin=T33-1
+Added Pin To Net: NetName=button_down Pin=T33-2
+Added Pin To Net: NetName=GND Pin=T34-1
+Added Pin To Net: NetName=button_left Pin=T34-2
+Add Class Member: Failed to add class member : Component J12 2x3 Pin Header
+Added Member To Class: ClassName=LED_Controller Member=Component T21 Taster
+Added Member To Class: ClassName=LED_Controller Member=Component T31 Taster
+Added Member To Class: ClassName=LED_Controller Member=Component T32 Taster
+Added Member To Class: ClassName=LED_Controller Member=Component T33 Taster
+Added Member To Class: ClassName=LED_Controller Member=Component T34 Taster

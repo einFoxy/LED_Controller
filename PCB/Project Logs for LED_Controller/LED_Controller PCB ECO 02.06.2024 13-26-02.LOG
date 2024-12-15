@@ -1,0 +1,7 @@
+Added Component: Designator=B21(BreakOutPad)
+Added Component: Designator=B22(BreakOutPad)
+Add Pin To Net: Unknown Pin: Pin B21-9
+Added Pin To Net: NetName=PC4 Pin=U21-27
+Added Net: Name=PC4
+Added Member To Class: ClassName=LED_Controller Member=Component B21 BreakOutPad
+Added Member To Class: ClassName=LED_Controller Member=Component B22 BreakOutPad

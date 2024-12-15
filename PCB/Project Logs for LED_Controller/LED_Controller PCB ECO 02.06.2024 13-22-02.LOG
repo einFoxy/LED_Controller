@@ -1,0 +1,5 @@
+Add Pin To Net: Unknown Pin: Pin B21-9
+Added Pin To Net: NetName=ADC6 Pin=U21-19
+Added Net: Name=ADC6
+Add Class Member: Failed to add class member : Component B21 BreakOutPad
+Add Class Member: Failed to add class member : Component B22 BreakOutPad

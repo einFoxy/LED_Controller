@@ -1,0 +1,5 @@
+Added Component: Designator=X2(CON2)
+Add component (AddParameter): Name = "VALUE"; Value = "PinHedader"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=X2-1
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Member To Class: ClassName=LED_Controller Member=Component X2 PinHedader

@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=C21 Old Footprint=CAPC3216X170N New Footprint=CAP0805
+Change Component Footprint: Designator=C22 Old Footprint=CAPC3216X170N New Footprint=CAP0805
+Change Component Footprint: Designator=C23 Old Footprint=CAPC3216X170N New Footprint=CAP0805
+Change Component Footprint: Designator=C24 Old Footprint=CAPC3216X170N New Footprint=CAP0805
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAPC3216X170N"; UniqueID = "\KWPOCDEG" ("\KWPOCDEG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "VJ1206A220GXCAP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin B21-9
+Add Pin To Net: Unknown Pin: Pin B22-9

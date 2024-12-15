@@ -1,0 +1,30 @@
+Added Component: Designator=T21(SMD Swtich)
+Added Component: Designator=T31(SMD Swtich)
+Added Component: Designator=T32(SMD Swtich)
+Added Component: Designator=T33(SMD Swtich)
+Added Component: Designator=T34(SMD Swtich)
+Added Pin To Net: NetName=GND Pin=T21-1
+Added Pin To Net: NetName=GND Pin=T21-1
+Added Pin To Net: NetName=RST Pin=T21-2
+Added Pin To Net: NetName=RST Pin=T21-2
+Added Pin To Net: NetName=GND Pin=T31-1
+Added Pin To Net: NetName=GND Pin=T31-1
+Added Pin To Net: NetName=button_up Pin=T31-2
+Added Pin To Net: NetName=button_up Pin=T31-2
+Added Pin To Net: NetName=GND Pin=T32-1
+Added Pin To Net: NetName=GND Pin=T32-1
+Added Pin To Net: NetName=button_right Pin=T32-2
+Added Pin To Net: NetName=button_right Pin=T32-2
+Added Pin To Net: NetName=GND Pin=T33-1
+Added Pin To Net: NetName=GND Pin=T33-1
+Added Pin To Net: NetName=button_down Pin=T33-2
+Added Pin To Net: NetName=button_down Pin=T33-2
+Added Pin To Net: NetName=GND Pin=T34-1
+Added Pin To Net: NetName=GND Pin=T34-1
+Added Pin To Net: NetName=button_left Pin=T34-2
+Added Pin To Net: NetName=button_left Pin=T34-2
+Added Member To Class: ClassName=LED_Controller Member=Component T21 SMD Switch
+Added Member To Class: ClassName=LED_Controller Member=Component T31 SMD Switch
+Added Member To Class: ClassName=LED_Controller Member=Component T32 SMD Switch
+Added Member To Class: ClassName=LED_Controller Member=Component T33 SMD Switch
+Added Member To Class: ClassName=LED_Controller Member=Component T34 SMD Switch

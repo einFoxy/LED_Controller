@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VCC Pin=T11-1
+Removed Pin From Net: NetName=VBUS Pin=T11-2
+Removed Member From Class: ClassName=LED_Controller Member=T11
+Added Component: Designator=T?(Toggel Switch)
+Added Pin To Net: NetName=VBUS Pin=T?-1
+Added Pin To Net: NetName=VCC Pin=T?-2
+Added Pin To Net: NetName=GND Pin=T?-3
+Added Member To Class: ClassName=LED_Controller Member=Component T? Toggel Switch

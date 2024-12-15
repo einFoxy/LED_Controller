@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=OUTPUT_GREEN Pin=D41-1
+Removed Pin From Net: NetName=OUTPUT_RED Pin=D41-3
+Removed Pin From Net: NetName=button_up Pin=T31-2
+Removed Pin From Net: NetName=button_up Pin=T31-2
+Removed Pin From Net: NetName=button_right Pin=T32-2
+Removed Pin From Net: NetName=button_right Pin=T32-2
+Removed Pin From Net: NetName=button_right Pin=U21-23
+Removed Pin From Net: NetName=button_up Pin=U21-26
+Change Component Designator: OldDesignator=T31 NewDesignator=T34
+Change Component Designator: OldDesignator=T32 NewDesignator=T31
+Change Component Designator: OldDesignator=T33 NewDesignator=T32
+Change Component Designator: OldDesignator=T34 NewDesignator=T33
+Added Pin To Net: NetName=button_up Pin=T31-2
+Added Pin To Net: NetName=button_up Pin=T31-2
+Added Pin To Net: NetName=button_right Pin=T32-2
+Added Pin To Net: NetName=button_right Pin=T32-2
+Added Pin To Net: NetName=button_up Pin=U21-24
+Added Pin To Net: NetName=button_right Pin=U21-26
+Change Net Name : Old Net Name=button_left New Net Name=button_down
+Added Pin To Net: NetName=button_left Pin=T34-2
+Added Pin To Net: NetName=button_left Pin=T34-2
+Added Pin To Net: NetName=button_left Pin=U21-23
+Added Net: Name=button_left
+Added Member To Class: ClassName=LED_Controller Member=Component T33 SMD Switch
+Added Member To Class: ClassName=LED_Controller Member=Component T34 SMD Switch

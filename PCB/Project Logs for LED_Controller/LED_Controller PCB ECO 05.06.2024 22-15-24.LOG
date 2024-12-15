@@ -1,0 +1,14 @@
+Added Component: Designator=C26(SMD ELKO D6.3L7.7mm)
+Add component (AddParameter): Name = "VALUE"; Value = "100u"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin B21-9
+Add Pin To Net: Unknown Pin: Pin B22-9
+Added Pin To Net: NetName=GND Pin=C26-N
+Added Pin To Net: NetName=VCC Pin=C26-P
+Add Pin To Net: Unknown Pin: Pin J12-1
+Add Pin To Net: Unknown Pin: Pin J12-2
+Add Pin To Net: Unknown Pin: Pin J12-3
+Add Pin To Net: Unknown Pin: Pin J12-4
+Add Pin To Net: Unknown Pin: Pin J12-5
+Add Pin To Net: Unknown Pin: Pin J12-6
+Added Member To Class: ClassName=LED_Controller Member=Component C26 100u
+Add Class Member: Failed to add class member : Component J12 2x3 Pin Header

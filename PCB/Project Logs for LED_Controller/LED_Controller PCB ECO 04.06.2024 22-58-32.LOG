@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=PD2 Pin=B21-1
+Removed Pin From Net: NetName=PC4 Pin=B22-1
+Removed Pin From Net: NetName=RST Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=T11-3
+Removed Pin From Net: NetName=GND Pin=X11-1
+Removed Pin From Net: NetName=RX Pin=X11-3
+Removed Pin From Net: NetName=TX Pin=X11-4
+Removed Pin From Net: NetName=VCC Pin=X11-5
+Removed Member From Class: ClassName=LED_Controller Member=C11
+Removed Member From Class: ClassName=LED_Controller Member=X11
+Change Footprint: Cannot match pads with new footprint in component :T21 Footprint:Taster
+Change Footprint: Cannot match pads with new footprint in component :T31 Footprint:Taster
+Change Footprint: Cannot match pads with new footprint in component :T32 Footprint:Taster
+Change Footprint: Cannot match pads with new footprint in component :T33 Footprint:Taster
+Change Footprint: Cannot match pads with new footprint in component :T34 Footprint:Taster
+Change Component Comment : Designator=T21 Old Comment=SMD Switch New Comment=Taster
+Change Component Comment : Designator=T31 Old Comment=SMD Switch New Comment=Taster
+Change Component Comment : Designator=T32 Old Comment=SMD Switch New Comment=Taster
+Change Component Comment : Designator=T33 Old Comment=SMD Switch New Comment=Taster
+Change Component Comment : Designator=T34 Old Comment=SMD Switch New Comment=Taster
+Change component parameters: Designator = "T21" ("T21"); Footprint = "SMD Swtich"; UniqueID = "\SLQYNWVH" ("\SLQYNWVH")
+Change component parameters (AddParameter): Name = "Value"; Value = "Taster"; VariantName = "[No Variations]"
+Change component parameters: Designator = "T31" ("T31"); Footprint = "SMD Swtich"; UniqueID = "\KFHGQAVF" ("\KFHGQAVF")
+Change component parameters (AddParameter): Name = "Value"; Value = "Taster"; VariantName = "[No Variations]"
+Change component parameters: Designator = "T32" ("T32"); Footprint = "SMD Swtich"; UniqueID = "\KYEEXSNQ" ("\KYEEXSNQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "Taster"; VariantName = "[No Variations]"
+Change component parameters: Designator = "T33" ("T33"); Footprint = "SMD Swtich"; UniqueID = "\RBLPYCSM" ("\RBLPYCSM")
+Change component parameters (AddParameter): Name = "Value"; Value = "Taster"; VariantName = "[No Variations]"
+Change component parameters: Designator = "T34" ("T34"); Footprint = "SMD Swtich"; UniqueID = "\OAZFFSYZ" ("\OAZFFSYZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "Taster"; VariantName = "[No Variations]"
+Added Component: Designator=C?(ELKO_12.5_RM2)
+Add component (AddParameter): Name = "VALUE"; Value = "100u"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin B21-9
+Add Pin To Net: Unknown Pin: Pin B22-9
+Added Pin To Net: NetName=GND Pin=C?-n
+Added Pin To Net: NetName=VCC Pin=C?-p
+Add Pin To Net: Unknown Pin: Pin J12-1
+Add Pin To Net: Unknown Pin: Pin J12-2
+Add Pin To Net: Unknown Pin: Pin J12-3
+Add Pin To Net: Unknown Pin: Pin J12-4
+Add Pin To Net: Unknown Pin: Pin J12-5
+Add Pin To Net: Unknown Pin: Pin J12-6
+Added Member To Class: ClassName=LED_Controller Member=Component C? 100u
+Add Class Member: Failed to add class member : Component J12 2x3 Pin Header

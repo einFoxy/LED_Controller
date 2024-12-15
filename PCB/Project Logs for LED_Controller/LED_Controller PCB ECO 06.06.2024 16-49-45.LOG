@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=SD CS Pin=U21-11
+Added Pin To Net: NetName=RST_LCD Pin=U21-12
+Added Pin To Net: NetName=D/C Pin=U21-13
+Added Pin To Net: NetName=button_down Pin=U21-25
+Added Pin To Net: NetName=button_right Pin=U21-26
+Added Pin To Net: NetName=ADC6 Pin=U21-19
+Added Net: Name=ADC6
+Added Pin To Net: NetName=ADC7 Pin=U21-22
+Added Net: Name=ADC7
+Added Pin To Net: NetName=PC5 Pin=U21-28
+Added Net: Name=PC5
+Added Pin To Net: NetName=PD4 Pin=U21-2
+Added Net: Name=PD4

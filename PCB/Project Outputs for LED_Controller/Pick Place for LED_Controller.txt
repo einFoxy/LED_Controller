@@ -1,0 +1,39 @@
+Altium Designer Pick and Place Locations
+D:\Programms\Altium\Projecte\LED_Strip_Controller\LED_ControllerV2\LED_Controller\Project Outputs for LED_Controller\Pick Place for LED_Controller.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27.11.24
+Time:       18:44
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator   Comment                       Layer    Footprint                   Description                                                                                                         
+Designator16 Comment                       TopLayer BreakOutPad                 ""                                                                                                                  
+Designator14 Comment                       TopLayer BreakOutPad                 ""                                                                                                                  
+Designator13 Comment                       TopLayer BreakOutPad                 ""                                                                                                                  
+D41          "Arduino LCD Display A000096" TopLayer Arduino_LCD_Display_A000096 ""                                                                                                                  
+J12          "2x3 Pin Header"              TopLayer 2x3_Pin_Header              ""                                                                                                                  
+C26          100u                          TopLayer ELKO_D5.0                   ""                                                                                                                  
+T34          Taster                        TopLayer Taster                      ""                                                                                                                  
+T33          Taster                        TopLayer Taster                      ""                                                                                                                  
+T32          Taster                        TopLayer Taster                      ""                                                                                                                  
+T31          Taster                        TopLayer Taster                      ""                                                                                                                  
+T21          Taster                        TopLayer Taster                      ""                                                                                                                  
+B22          BreakOutPad                   TopLayer BreakOutPad                 ""                                                                                                                  
+B21          BreakOutPad                   TopLayer BreakOutPad                 ""                                                                                                                  
+U21          ATMEGA328P-AU                 TopLayer QFP80P900X900X120-32N       "AVR AVR® ATmega Microcontroller IC 8-Bit 20MHz 32KB (16K x 16) FLASH 32-TQFP (7x7)"                               
+X2           PinHedader                    TopLayer CON2                        ""                                                                                                                  
+R21          1M                            TopLayer RES_ERJU08J154V             ""                                                                                                                  
+J11          "USB Type C Conector"         TopLayer MOLEX_2171750001            "USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (6+18 Dummy) Position Surface Mount, Right Angle; Through Hole" 
+T11          "Toggel Switch"               TopLayer Toggel_Switch               ""                                                                                                                  
+R22          10k                           TopLayer RES_ERJU08J154V             ""                                                                                                                  
+C25          1u                            TopLayer CAP0805                     ""                                                                                                                  
+C23          100n                          TopLayer CAP0805                     ""                                                                                                                  
+C22          100n                          TopLayer CAP0805                     ""                                                                                                                  
+C21          100n                          TopLayer CAP0805                     ""                                                                                                                  
+C24          100n                          TopLayer CAP0805                     ""                                                                                                                  
+Y21          CSTCE16M0V53-R0               TopLayer OSC_CSTCE16M0V53-R0         "16 MHz Ceramic Resonator Built in Capacitor 15 pF ±0.3% -20°C ~ 80°C Surface Mount"                             
+X51          PinHedader                    TopLayer CON4_200mil                 ""                                                                                                                  

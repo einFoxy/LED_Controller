@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=SD CS Pin=U21-2
+Added Pin To Net: NetName=SD CS Pin=U21-11

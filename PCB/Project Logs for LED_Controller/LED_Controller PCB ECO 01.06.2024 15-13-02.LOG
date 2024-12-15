@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MISO Pin=C41-2
+Added Pin To Net: NetName=VCC Pin=C41-2
+Change Net Name : Old Net Name=Net41_1 New Net Name=NetD41_BL
+Added Member To Class: ClassName=LED_Controller Member=Component R21 1M

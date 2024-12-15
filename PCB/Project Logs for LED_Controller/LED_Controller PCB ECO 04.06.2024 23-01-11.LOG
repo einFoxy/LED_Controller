@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=C?-n
+Removed Pin From Net: NetName=VCC Pin=C?-p
+Removed Member From Class: ClassName=LED_Controller Member=C?
+Change Footprint: Cannot match pads with new footprint in component :T21 Footprint:Taster
+Change Footprint: Cannot match pads with new footprint in component :T31 Footprint:Taster
+Change Footprint: Cannot match pads with new footprint in component :T32 Footprint:Taster
+Change Footprint: Cannot match pads with new footprint in component :T33 Footprint:Taster
+Change Footprint: Cannot match pads with new footprint in component :T34 Footprint:Taster
+Added Component: Designator=C26(VUA101M1HTR-1010)
+Add component (AddParameter): Name = "VALUE"; Value = "100u"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin B21-9
+Add Pin To Net: Unknown Pin: Pin B22-9
+Added Pin To Net: NetName=GND Pin=C26-N
+Added Pin To Net: NetName=VCC Pin=C26-P
+Add Pin To Net: Unknown Pin: Pin J12-1
+Add Pin To Net: Unknown Pin: Pin J12-2
+Add Pin To Net: Unknown Pin: Pin J12-3
+Add Pin To Net: Unknown Pin: Pin J12-4
+Add Pin To Net: Unknown Pin: Pin J12-5
+Add Pin To Net: Unknown Pin: Pin J12-6
+Added Member To Class: ClassName=LED_Controller Member=Component C26 100u
+Add Class Member: Failed to add class member : Component J12 2x3 Pin Header

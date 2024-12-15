@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=XTAL1 Pin=Y21-1
+Removed Pin From Net: NetName=XTAL2 Pin=Y21-3
+Added Pin To Net: NetName=XTAL2 Pin=Y21-1
+Added Pin To Net: NetName=XTAL1 Pin=Y21-3

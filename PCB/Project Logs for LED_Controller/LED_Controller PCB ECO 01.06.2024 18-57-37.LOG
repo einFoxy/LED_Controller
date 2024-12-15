@@ -1,0 +1,34 @@
+Added Component: Designator=U21(QFP80P900X900X120-32N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA328P-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-32 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OUTPUT_BLUE Pin=U21-1
+Added Pin To Net: NetName=GND Pin=U21-3
+Added Pin To Net: NetName=VCC Pin=U21-4
+Added Pin To Net: NetName=GND Pin=U21-5
+Added Pin To Net: NetName=VCC Pin=U21-6
+Added Pin To Net: NetName=XTAL1 Pin=U21-7
+Added Pin To Net: NetName=XTAL2 Pin=U21-8
+Added Pin To Net: NetName=OUTPUT_GREEN Pin=U21-9
+Added Pin To Net: NetName=OUTPUT_RED Pin=U21-10
+Added Pin To Net: NetName=SD CS Pin=U21-11
+Added Pin To Net: NetName=RST_LCD Pin=U21-12
+Added Pin To Net: NetName=D/C Pin=U21-13
+Added Pin To Net: NetName=LCD CS Pin=U21-14
+Added Pin To Net: NetName=MOSI Pin=U21-15
+Added Pin To Net: NetName=MISO Pin=U21-16
+Added Pin To Net: NetName=SCK Pin=U21-17
+Added Pin To Net: NetName=VCC Pin=U21-18
+Added Pin To Net: NetName=VCC Pin=U21-20
+Added Pin To Net: NetName=GND Pin=U21-21
+Added Pin To Net: NetName=button_left Pin=U21-23
+Added Pin To Net: NetName=button_up Pin=U21-24
+Added Pin To Net: NetName=button_down Pin=U21-25
+Added Pin To Net: NetName=button_right Pin=U21-26
+Added Pin To Net: NetName=RST Pin=U21-29
+Added Pin To Net: NetName=RX Pin=U21-30
+Added Pin To Net: NetName=TX Pin=U21-31
+Added Member To Class: ClassName=LED_Controller Member=Component U21 ATMEGA328P-AU
